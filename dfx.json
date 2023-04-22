@@ -10,7 +10,7 @@
     },
     "SilverDIP20": {
       "type": "motoko",
-      "main": "src/DIP20/motoko/src/tokn.mo"
+      "main": "src/DIP20/motoko/src/token.mo"
     },
     "icp_basic_dex_frontend": {
       "dependencies": [
